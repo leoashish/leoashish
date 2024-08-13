@@ -1,14 +1,7 @@
 # 👋 Hello! I'm Ashish Singh
 
-## 📍 Location
-Bangalore, India
-
 ## 📧 Contact
 - **Email:** [leoashish99](leoashish99@gmail.com)
-- **LinkedIn:** [ashish3108](https://linkedin.com/in/ashish3108)
-- **GitHub:** [github.com/leoashish](https://github.com/leoashish99)
-
----
 
 ## 🧑‍💻 Programming Skills
 
@@ -37,12 +30,6 @@ Bangalore, India
 - **Technologies Used:** C#, ASP.NET, Entity Framework Core
 - **Role:** Lead Developer
 - **Highlights:** Successfully deployed using Azure, integrated with various third-party APIs, etc.
-
-### 📊 [Another Project](https://github.com/yourusername/another-project)
-- **Description:** Description of this project and its features.
-- **Technologies Used:** JavaScript, TypeScript, NestJS
-- **Role:** Frontend Developer
-- **Highlights:** Improved user experience with a new UI/UX design, optimized performance, etc.
 
 ---
 
