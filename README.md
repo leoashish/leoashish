@@ -4,7 +4,7 @@
 - **Email:** [leoashish99](leoashish99@gmail.com)
 
 
-## 💼 Projects
+## 💼 Work
 
 ### 🚀 [HaulPlan](https://tforce.haulplan.com)
 - **Description:** It is an LTL LineHaul planning tool.
